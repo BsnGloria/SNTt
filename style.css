@@ -1,0 +1,10 @@
+body {background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    text-align: center;}
+
+h1 {color: blue;}
+
+p {color: darkgray;
+    font-size: 18px;}
+img { width: 300px;
+    border-radius: 10px;}
