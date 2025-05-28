@@ -1,21 +1,19 @@
 body {
-  background-color: #fce4ec; 
+  background-color: #fce4ec;
   font-family: 'Segoe UI', sans-serif;
   color: #333;
   padding: 2em;
 }
-
 
 h1 {
   border: 2px solid white;
   padding: 15px;
   border-radius: 15px;
   background-color: #ffffffaa;
-  color: #d81b60; /* rose framboise doux */
+  color: #d81b60;
   text-align: center;
   box-shadow: 0 4px 6px rgba(0,0,0,0.1);
 }
-
 
 h2 {
   border: 1px solid white;
@@ -24,4 +22,21 @@ h2 {
   background-color: #ffffff88;
   color: #ad1457;
   margin-top: 2em;
+}
+
+a {
+  color: #d81b60;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+img {
+  display: block;
+  margin: 20px auto;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
 }
